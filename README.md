@@ -234,8 +234,8 @@ protocols.
   available ciphers. [``LGPL-2.1-or-later``][LGPL-2.1-or-later]
 * [OpenSSL][110] - Implementation of the SSL and TLS protocols. Also includes a
   cryptography library. OpenSSL is covered by one of two licenses, depending on which 
-  release is involved. For the 3.0 release and later, the [``Apache-2.0``][Apache License v2] applies. 
-  For any release made before OpenSSL 3.0, the dual [``OpenSSL``][OpenSSL and SSLeay license] applies.
+  release is involved. For the 3.0 release and later, the [``Apache-2.0``][Apache-2.0] license applies. 
+  For any release made before OpenSSL 3.0, the dual [``OpenSSL``][OpenSSL] license applies.
   [More information here][111].
 * [LibreSSL][707] - Fork of OpenSSL 1.0.1g focused on modernizing the codebase, improving security, and 
   applying best programming practices. [``OpenSSL``][OpenSSL]
